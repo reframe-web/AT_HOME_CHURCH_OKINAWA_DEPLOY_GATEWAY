@@ -78,4 +78,4 @@ jobs:
           name: ahc-browser-only-verification-${{ github.run_id }}
           path: ${{ env.AHC_BROWSER_ARTIFACT_DIR }}
           if-no-files-found: ignore
-          retention-days: 14
+          retention-days: 1
