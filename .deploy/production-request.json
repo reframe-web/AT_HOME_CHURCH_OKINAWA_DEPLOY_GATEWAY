@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-morning-20261004-hebrews-13-2-v1",
-  "reason": "publish-morning-word-hebrews-13-2",
-  "verify_path": "/message/morning/2026-10-04-hebrews-13-2/",
+  "request_id": "ahc-morning-20261005-mark-10-48-v1",
+  "reason": "publish-morning-word-mark-10-48",
+  "verify_path": "/message/morning/2026-10-05-mark-10-48/",
   "firebase_project": "at-home-church-okinawa"
 }
