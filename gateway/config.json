@@ -15,6 +15,6 @@
     "build-morning-word-archive.mjs"
   ],
   "requiredSourcePaths": [
-    "content/message/morning-word-source/morning-word-public.json"
+    "content/message"
   ]
 }
