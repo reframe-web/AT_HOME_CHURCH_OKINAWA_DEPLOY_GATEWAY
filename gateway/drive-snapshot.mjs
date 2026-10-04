@@ -191,11 +191,48 @@ async function buildInventory(token) {
         continue;
       }
 
-      if (item.mimeType === GOOGLE_DRIVE_FOLDER_MIME || item.mimeType.startsWith(GOOGLE_NATIVE_PREFIX)) {
+      const normalizedPath = parts.join("/");
+
+      if (item.mimeType === GOOGLE_DRIVE_FOLDER_MIME) {
+        async function walkRequiredSource(folder, relFolder) {
+          validateDriveName(folder.name, path.posix.dirname(relFolder));
+          const folderPath = relFolder.replaceAll("\\", "/");
+          if (seenPaths.has(folderPath)) fail(`Duplicate Drive path: ${folderPath}`);
+          seenPaths.add(folderPath);
+          entries.push(inventoryEntry(folder, folderPath, "folder"));
+
+          const sourceChildren = await listChildren(token, folder.id);
+          const sourceNames = new Map();
+          for (const child of sourceChildren) {
+            validateDriveName(child.name, folderPath);
+            const count = (sourceNames.get(child.name) || 0) + 1;
+            sourceNames.set(child.name, count);
+            if (count > 1) {
+              fail(`Duplicate Drive name in source folder ${folderPath}: ${child.name}`);
+            }
+
+            const childPath = path.posix.join(folderPath, child.name);
+            if (child.mimeType === GOOGLE_DRIVE_FOLDER_MIME) {
+              await walkRequiredSource(child, childPath);
+              continue;
+            }
+            if (child.mimeType.startsWith(GOOGLE_NATIVE_PREFIX)) {
+              fail(`Unsupported Google-native file under required source path: ${childPath} (${child.mimeType})`);
+            }
+            if (seenPaths.has(childPath)) fail(`Duplicate Drive path: ${childPath}`);
+            seenPaths.add(childPath);
+            entries.push(inventoryEntry(child, childPath, "file"));
+          }
+        }
+
+        await walkRequiredSource(item, normalizedPath);
+        return;
+      }
+
+      if (item.mimeType.startsWith(GOOGLE_NATIVE_PREFIX)) {
         fail(`Required source path "${relPath}" is not a raw downloadable file.`);
       }
 
-      const normalizedPath = parts.join("/");
       if (seenPaths.has(normalizedPath)) fail(`Duplicate Drive path: ${normalizedPath}`);
       seenPaths.add(normalizedPath);
       entries.push(inventoryEntry(item, normalizedPath, "file"));
