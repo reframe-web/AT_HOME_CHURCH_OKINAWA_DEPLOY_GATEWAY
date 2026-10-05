@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-blog-20261005-kikaijima-mission-v1",
-  "reason": "publish-first-formal-pastor-blog-kikaijima-mission",
-  "verify_path": "/message/blog/kikaijima-mission-2026-10-05/",
+  "request_id": "ahc-blog-20261005-kikaijima-unpublish-v1",
+  "reason": "temporarily-unpublish-pastor-blog-kikaijima-mission",
+  "verify_path": "/message/",
   "firebase_project": "at-home-church-okinawa"
 }
