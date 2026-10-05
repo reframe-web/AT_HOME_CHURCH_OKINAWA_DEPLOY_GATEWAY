@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-blog-20261005-kikaijima-unpublish-v1",
-  "reason": "temporarily-unpublish-pastor-blog-kikaijima-mission",
-  "verify_path": "/message/",
+  "request_id": "ahc-morning-20261006-psalm-77-13-v1",
+  "reason": "publish-morning-word-2026-10-06-psalm-77-13",
+  "verify_path": "/message/morning/2026-10-06-psalm-77-13/",
   "firebase_project": "at-home-church-okinawa"
 }
