@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-morning-20261005-mark-10-48-v2",
-  "reason": "publish-morning-word-mark-10-48-after-snapshot-fix",
-  "verify_path": "/message/morning/2026-10-05-mark-10-48/",
+  "request_id": "ahc-blog-20261005-kikaijima-mission-v1",
+  "reason": "publish-first-formal-pastor-blog-kikaijima-mission",
+  "verify_path": "/message/blog/kikaijima-mission-2026-10-05/",
   "firebase_project": "at-home-church-okinawa"
 }
