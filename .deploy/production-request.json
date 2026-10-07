@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-morning-20261008-psalm11612-v1",
-  "reason": "publish-morning-word-2026-10-08-ja-en",
+  "request_id": "ahc-morning-20261008-psalm11612-verify-retry-v2",
+  "reason": "verify-new-morning-word-after-firebase-rollout-404",
   "verify_path": "/message/morning/2026-10-08-psalm-116-12/",
   "firebase_project": "at-home-church-okinawa"
 }
