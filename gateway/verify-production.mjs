@@ -66,7 +66,7 @@ async function fetchRequestedRouteAfterRelease(options) {
       return await fetchChecked(options);
     } catch (error) {
       const message = String(error?.message || error);
-      const transient = /HTTP (?:404|429|500|502|503|504)\\b|fetch failed|timed out/i.test(message);
+      const transient = /HTTP (?:404|429|500|502|503|504)\b|fetch failed|timed out/i.test(message);
       if (!transient || attempt === delaysMs.length - 1) {
         throw error;
       }
