@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-morning-20261007-mark-1-35-v1",
-  "reason": "publish-morning-word-2026-10-07-mark-1-35",
-  "verify_path": "/message/morning/2026-10-07-mark-1-35/",
+  "request_id": "ahc-seo-static-archive-links-20261007-v1",
+  "reason": "publish-crawlable-static-message-archive-links",
+  "verify_path": "/message/archive/",
   "firebase_project": "at-home-church-okinawa"
 }
