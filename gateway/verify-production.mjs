@@ -54,6 +54,27 @@ async function fetchChecked({ url, label, userAgent, requireIdentity = false, re
   return { response, body };
 }
 
+// Firebase Hosting may briefly return a stale 404 immediately after a successful
+// release. Retry the requested production route, but never treat a 404 as success.
+async function fetchRequestedRouteAfterRelease(options) {
+  const delaysMs = [0, 5000, 10000, 20000, 30000, 45000, 60000];
+  for (let attempt = 0; attempt < delaysMs.length; attempt += 1) {
+    if (delaysMs[attempt] > 0) {
+      await new Promise((resolve) => setTimeout(resolve, delaysMs[attempt]));
+    }
+    try {
+      return await fetchChecked(options);
+    } catch (error) {
+      const message = String(error?.message || error);
+      const transient = /HTTP (?:404|429|500|502|503|504)\\b|fetch failed|timed out/i.test(message);
+      if (!transient || attempt === delaysMs.length - 1) {
+        throw error;
+      }
+      console.warn(`Production route not ready (attempt ${attempt + 1}/${delaysMs.length}): ${message}`);
+    }
+  }
+}
+
 const requestedPath = process.argv[2] || "/";
 if (!requestedPath.startsWith("/") || requestedPath.includes("://") || requestedPath.includes("\\")) {
   fail(`Invalid verification path: ${requestedPath}`);
@@ -73,7 +94,7 @@ const GOOGLEBOT_SMARTPHONE_UA =
   "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)";
 
 try {
-  await fetchChecked({
+  await fetchRequestedRouteAfterRelease({
     url: requestedUrl,
     label: "Production runtime verification",
     userAgent: "AHC-Deploy-Gateway/1.1",
