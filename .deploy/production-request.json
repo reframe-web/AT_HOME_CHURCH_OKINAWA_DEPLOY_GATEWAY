@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-morning-word-20261009-john-1-26-v1",
-  "reason": "publish-2026-10-09-john-1-26-bilingual-morning-word",
-  "verify_path": "/message/morning/2026-10-09-john-1-26/",
+  "request_id": "ahc-morning-word-20261010-psalm-121-4-v1",
+  "reason": "publish-2026-10-10-psalm-121-4-bilingual-morning-word",
+  "verify_path": "/message/morning/2026-10-10-psalm-121-4/",
   "firebase_project": "at-home-church-okinawa"
 }
