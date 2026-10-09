@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-contact-email-only-home-church-inquiries-20261008-v1",
-  "reason": "publish-pastor-request-remove-phones-add-chiba-tokyo-home-church-email-links",
-  "verify_path": "/churches/",
+  "request_id": "ahc-morning-word-20261009-john-1-26-v1",
+  "reason": "publish-2026-10-09-john-1-26-bilingual-morning-word",
+  "verify_path": "/message/morning/2026-10-09-john-1-26/",
   "firebase_project": "at-home-church-okinawa"
 }
