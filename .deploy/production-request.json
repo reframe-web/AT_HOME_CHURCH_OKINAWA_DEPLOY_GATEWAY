@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-bilingual-testimony-worship-20261010-v1",
-  "reason": "publish bilingual testimony pages, English worship guides, and feed-driven sitemap and deploy guards",
+  "request_id": "ahc-bilingual-testimony-worship-20261010-v2",
+  "reason": "publish bilingual testimony and worship; duplicate source filename resolved",
   "verify_path": "/en/message/worship/2026-10-04-peters-revenge/",
   "firebase_project": "at-home-church-okinawa"
 }
