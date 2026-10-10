@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-worship-20261004-peters-revenge-20261010-v1",
-  "reason": "publish-irei-pastor-peters-revenge-worship-message-and-transcript",
+  "request_id": "ahc-worship-20261004-peters-revenge-20261010-v2",
+  "reason": "publish-irei-pastor-worship-canonical-feed-synced",
   "verify_path": "/message/worship/2026-10-04-peters-revenge/",
   "firebase_project": "at-home-church-okinawa"
 }
