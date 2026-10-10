@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-worship-reader-ux-three-pages-20261010-v1",
-  "reason": "publish three worship article reader UX refinements and standard YouTube embeds",
-  "verify_path": "/message/worship/2026-10-04-peters-revenge/",
+  "request_id": "ahc-bilingual-testimony-worship-20261010-v1",
+  "reason": "publish bilingual testimony pages, English worship guides, and feed-driven sitemap and deploy guards",
+  "verify_path": "/en/message/worship/2026-10-04-peters-revenge/",
   "firebase_project": "at-home-church-okinawa"
 }
