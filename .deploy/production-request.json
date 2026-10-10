@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-morning-20261011-romans-11-18-19-v1",
-  "reason": "publish 2026-10-11 bilingual Morning Word",
+  "request_id": "ahc-morning-20261011-romans-11-18-19-v2",
+  "reason": "publish 2026-10-11 Morning Word after empty folder cleanup",
   "verify_path": "/message/morning/2026-10-11-romans-11-18-19/",
   "firebase_project": "at-home-church-okinawa"
 }
