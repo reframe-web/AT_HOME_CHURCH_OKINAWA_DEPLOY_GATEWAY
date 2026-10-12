@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-morning-20261012-jeremiah-10-11-v1",
-  "reason": "publish 2026-10-12 Morning Word Jeremiah 10:11 with JA/EN parity",
-  "verify_path": "/message/morning/2026-10-12-jeremiah-10-11/",
+  "request_id": "ahc-morning-20261013-matthew-5-45-v1",
+  "reason": "publish 2026-10-13 Morning Word Matthew 5:45 with JA/EN parity",
+  "verify_path": "/message/morning/2026-10-13-matthew-5-45/",
   "firebase_project": "at-home-church-okinawa"
 }
