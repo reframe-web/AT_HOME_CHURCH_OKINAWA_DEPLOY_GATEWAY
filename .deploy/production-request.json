@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261014-amos-5-14-worship-20261011-v2",
-  "reason": "publish 2026-10-11 worship and 2026-10-14 Amos Morning Word after fixing canonical daily-source english route",
-  "verify_path": "/message/morning/2026-10-14-amos-5-14/",
+  "request_id": "ahc-20261015-luke-11-28-v1",
+  "reason": "publish 2026-10-15 Luke 11:28 Morning Word with paired Japanese and English pages from canonical AHC Drive",
+  "verify_path": "/message/morning/2026-10-15-luke-11-28/",
   "firebase_project": "at-home-church-okinawa"
 }
