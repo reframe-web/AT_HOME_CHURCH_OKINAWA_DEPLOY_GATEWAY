@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261014-amos-5-14-worship-20261011-v1",
-  "reason": "publish 2026-10-11 worship Yamashiro Timote and 2026-10-14 Morning Word Amos 5:14 with JA/EN pages",
+  "request_id": "ahc-20261014-amos-5-14-worship-20261011-v2",
+  "reason": "publish 2026-10-11 worship and 2026-10-14 Amos Morning Word after fixing canonical daily-source english route",
   "verify_path": "/message/morning/2026-10-14-amos-5-14/",
   "firebase_project": "at-home-church-okinawa"
 }
