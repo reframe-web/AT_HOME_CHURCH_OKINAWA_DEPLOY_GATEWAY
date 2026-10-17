@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261016-philippians-1-29-v1",
-  "reason": "publish 2026-10-16 Philippians 1:29 Morning Word with paired Japanese and English pages from AHC canonical Drive",
-  "verify_path": "/message/morning/2026-10-16-philippians-1-29/",
+  "request_id": "ahc-20261017-jeremiah-31-34-v1",
+  "reason": "publish 2026-10-17 Jeremiah 31:34 Morning Word with paired Japanese and English pages from AHC canonical Drive",
+  "verify_path": "/message/morning/2026-10-17-jeremiah-31-34/",
   "firebase_project": "at-home-church-okinawa"
 }
