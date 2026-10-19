@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261018-1peter-5-7-v1",
-  "reason": "Publish 2026-10-18 Sunday Morning Word (1 Peter 5:7), paired JA and EN from canonical AHC Drive",
-  "verify_path": "/message/morning/2026-10-18-1peter-5-7/",
+  "request_id": "ahc-20261019-psalm-133-1-v1",
+  "reason": "Publish 2026-10-19 Morning Word (Psalm 133:1), paired Japanese and English from canonical AHC Google Drive",
+  "verify_path": "/message/morning/2026-10-19-psalm-133-1/",
   "firebase_project": "at-home-church-okinawa"
 }
