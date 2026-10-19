@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261019-psalm-133-1-v1",
-  "reason": "Publish 2026-10-19 Morning Word (Psalm 133:1), paired Japanese and English from canonical AHC Google Drive",
-  "verify_path": "/message/morning/2026-10-19-psalm-133-1/",
+  "request_id": "ahc-20261020-revelation-12-11-v1",
+  "reason": "Publish 2026-10-20 Morning Word (Revelation 12:11), paired Japanese and English from canonical AHC Google Drive",
+  "verify_path": "/message/morning/2026-10-20-revelation-12-11/",
   "firebase_project": "at-home-church-okinawa"
 }
