@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261021-genesis-6-3-v1",
-  "reason": "Publish 2026-10-21 Morning Word (Genesis 6:3), paired Japanese and English from canonical AHC Google Drive",
-  "verify_path": "/message/morning/2026-10-21-genesis-6-3/",
+  "request_id": "ahc-20261022-philippians-4-13-v1",
+  "reason": "Publish 2026-10-22 Morning Word (Philippians 4:13), paired Japanese and English from canonical AHC Google Drive",
+  "verify_path": "/message/morning/2026-10-22-philippians-4-13/",
   "firebase_project": "at-home-church-okinawa"
 }
