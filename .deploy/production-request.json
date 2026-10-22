@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261022-philippians-4-13-v1",
-  "reason": "Publish 2026-10-22 Morning Word (Philippians 4:13), paired Japanese and English from canonical AHC Google Drive",
-  "verify_path": "/message/morning/2026-10-22-philippians-4-13/",
+  "request_id": "ahc-20261022-worship-20261018-just-say-the-word-v1",
+  "reason": "Publish 2026-10-18 worship message (Matthew 8:5-13), paired Japanese transcript and English thematic guide, video YTJNc9qNxiI, from canonical AHC Google Drive",
+  "verify_path": "/message/worship/2026-10-18-just-say-the-word/",
   "firebase_project": "at-home-church-okinawa"
 }
