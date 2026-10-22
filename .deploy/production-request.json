@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261022-praise-jZRntxluJwo-v1",
-  "reason": "Publish PRAISE category within MESSAGE and Oct 18 2026 special praise by John and Krista, paired Japanese/English detail, YouTube jZRntxluJwo, canonical Drive sources",
+  "request_id": "ahc-20261022-praise-jZRntxluJwo-v2",
+  "reason": "Release PRAISE within AHC MESSAGE, John and Krista special praise video, and allow praise route in canonical sitemap builder following guard failure in run 39735775614",
   "verify_path": "/message/praise/2026-10-18-special-praise-john-krista/",
   "firebase_project": "at-home-church-okinawa"
 }
