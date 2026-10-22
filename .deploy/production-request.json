@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261022-praise-jZRntxluJwo-v2",
-  "reason": "Release PRAISE within AHC MESSAGE, John and Krista special praise video, and allow praise route in canonical sitemap builder following guard failure in run 39735775614",
-  "verify_path": "/message/praise/2026-10-18-special-praise-john-krista/",
+  "request_id": "ahc-20261023-morning-matthew-18-19-v1",
+  "reason": "Publish 2026-10-23 Morning Word Matthew 18:19 in paired Japanese and English MESSAGE detail routes and synchronized feeds",
+  "verify_path": "/message/morning/2026-10-23-matthew-18-19/",
   "firebase_project": "at-home-church-okinawa"
 }
