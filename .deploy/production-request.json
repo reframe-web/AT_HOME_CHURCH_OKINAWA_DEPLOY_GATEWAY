@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261024-morning-hebrews-11-6-v1",
-  "reason": "Publish 2026-10-24 Morning Word Hebrews 11:6 in paired Japanese and English MESSAGE detail routes and synchronized feeds",
-  "verify_path": "/message/morning/2026-10-24-hebrews-11-6/",
+  "request_id": "ahc-20261025-morning-1john-2-6-v1",
+  "reason": "Publish 2026-10-25 Morning Word 1 John 2:6 with paired Japanese and English detail pages and synchronized MESSAGE feeds",
+  "verify_path": "/message/morning/2026-10-25-1john-2-6/",
   "firebase_project": "at-home-church-okinawa"
 }
