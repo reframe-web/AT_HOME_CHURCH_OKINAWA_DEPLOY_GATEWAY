@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261026-morning-mark-4-33-v1",
-  "reason": "Publish 2026-10-26 Morning Word Mark 4:33 with paired Japanese and English detail pages and synchronized canonical/public MESSAGE feeds",
-  "verify_path": "/message/morning/2026-10-26-mark-4-33/",
+  "request_id": "ahc-20261027-morning-jeremiah-42-6-v1",
+  "reason": "Publish 2026-10-27 Morning Word Jeremiah 42:6 with paired Japanese and English detail pages and synchronized canonical/public MESSAGE feeds",
+  "verify_path": "/message/morning/2026-10-27-jeremiah-42-6/",
   "firebase_project": "at-home-church-okinawa"
 }
