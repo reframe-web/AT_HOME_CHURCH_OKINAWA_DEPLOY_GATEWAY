@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261029-morning-1samuel-2-26-v1",
-  "reason": "Publish 2026-10-29 Morning Word 1 Samuel 2:26 with paired Japanese and English detail pages and synchronized canonical/public MESSAGE feeds",
+  "request_id": "ahc-20261029-morning-1samuel-2-26-v2",
+  "reason": "Retry AHC 2026-10-29 Morning Word after removing verified empty duplicate article folder in canonical Drive source",
   "verify_path": "/message/morning/2026-10-29-1samuel-2-26/",
   "firebase_project": "at-home-church-okinawa"
 }
