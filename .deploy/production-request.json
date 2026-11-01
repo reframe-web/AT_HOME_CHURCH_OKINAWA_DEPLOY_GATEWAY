@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261101-morning-romans-13-14-v1",
-  "reason": "Publish AHC 2026-11-01 Morning Word on Romans 13:14 from canonical Drive source with Japanese/English parity",
-  "verify_path": "/message/morning/2026-11-01-romans-13-14/",
+  "request_id": "ahc-20261102-morning-ecclesiastes-1-2-v1",
+  "reason": "Publish AHC 2026-11-02 Morning Word on Ecclesiastes 1:2 from canonical Drive source with Japanese/English parity",
+  "verify_path": "/message/morning/2026-11-02-ecclesiastes-1-2/",
   "firebase_project": "at-home-church-okinawa"
 }
