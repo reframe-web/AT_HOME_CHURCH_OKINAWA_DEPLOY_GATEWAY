@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261102-morning-ecclesiastes-1-2-v1",
-  "reason": "Publish AHC 2026-11-02 Morning Word on Ecclesiastes 1:2 from canonical Drive source with Japanese/English parity",
-  "verify_path": "/message/morning/2026-11-02-ecclesiastes-1-2/",
+  "request_id": "ahc-20261103-morning-proverbs-4-25-26-v1",
+  "reason": "Publish AHC 2026-11-03 Morning Word on Proverbs 4:25-26 from canonical Drive source with Japanese/English parity",
+  "verify_path": "/message/morning/2026-11-03-proverbs-4-25-26/",
   "firebase_project": "at-home-church-okinawa"
 }
