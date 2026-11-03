@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261103-morning-proverbs-4-25-26-v1",
-  "reason": "Publish AHC 2026-11-03 Morning Word on Proverbs 4:25-26 from canonical Drive source with Japanese/English parity",
-  "verify_path": "/message/morning/2026-11-03-proverbs-4-25-26/",
+  "request_id": "ahc-20261103-webgl-light-fallback-v1",
+  "reason": "Repair Japanese and English AHC Home opening freeze: WebGL failure auto-selects Light Home with independent opening safety guard, preserve healthy Globe",
+  "verify_path": "/",
   "firebase_project": "at-home-church-okinawa"
 }
