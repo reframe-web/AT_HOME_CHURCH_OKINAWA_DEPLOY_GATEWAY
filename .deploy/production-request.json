@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261104-proverbs-5-1-3-5-v1",
-  "reason": "Publish Nov 4 2026 Morning Word (Proverbs 5:1,3,5) with Japanese and English article pages and synchronized message feeds",
-  "verify_path": "/message/morning/2026-11-04-proverbs-5-1-3-5/",
+  "request_id": "ahc-20261105-psalm-146-3-v1",
+  "reason": "Publish Nov 5 2026 Morning Word (Psalm 146:3) with Japanese and English article pages and synchronized message feeds",
+  "verify_path": "/message/morning/2026-11-05-psalm-146-3/",
   "firebase_project": "at-home-church-okinawa"
 }
