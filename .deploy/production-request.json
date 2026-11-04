@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261103-webgl-light-fallback-v1",
-  "reason": "Repair Japanese and English AHC Home opening freeze: WebGL failure auto-selects Light Home with independent opening safety guard, preserve healthy Globe",
-  "verify_path": "/",
+  "request_id": "ahc-20261104-proverbs-5-1-3-5-v1",
+  "reason": "Publish Nov 4 2026 Morning Word (Proverbs 5:1,3,5) with Japanese and English article pages and synchronized message feeds",
+  "verify_path": "/message/morning/2026-11-04-proverbs-5-1-3-5/",
   "firebase_project": "at-home-church-okinawa"
 }
