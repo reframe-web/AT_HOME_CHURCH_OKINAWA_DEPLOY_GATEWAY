@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261105-worship-1025-1101-v1",
-  "reason": "Publish Oct 25 and Nov 1 2026 worship messages (Do Not Let Your Heart Be Troubled; I Want to See Jesus) with Japanese transcript pages, English reading guides, and synchronized message feeds",
+  "request_id": "ahc-20261105-worship-1025-1101-v2",
+  "reason": "Re-run after run 92 deploy-guard failure: canonical content/message/feed.json now carries the Oct 25 and Nov 1 2026 worship entries (feed parity restored); publish both worship messages with Japanese transcript pages, English reading guides, and synchronized message feeds",
   "verify_path": "/message/worship/2026-11-01-want-to-see-jesus/",
   "firebase_project": "at-home-church-okinawa"
 }
