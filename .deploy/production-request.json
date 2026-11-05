@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261105-psalm-146-3-v1",
-  "reason": "Publish Nov 5 2026 Morning Word (Psalm 146:3) with Japanese and English article pages and synchronized message feeds",
-  "verify_path": "/message/morning/2026-11-05-psalm-146-3/",
+  "request_id": "ahc-20261105-worship-1025-1101-v1",
+  "reason": "Publish Oct 25 and Nov 1 2026 worship messages (Do Not Let Your Heart Be Troubled; I Want to See Jesus) with Japanese transcript pages, English reading guides, and synchronized message feeds",
+  "verify_path": "/message/worship/2026-11-01-want-to-see-jesus/",
   "firebase_project": "at-home-church-okinawa"
 }
