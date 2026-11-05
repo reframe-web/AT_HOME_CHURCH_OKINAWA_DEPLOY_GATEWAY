@@ -1,8 +1,1 @@
-{
-  "schema": 1,
-  "deploy": true,
-  "request_id": "ahc-20261105-bible-today-v1",
-  "reason": "Remove the YouVersion API fetch from /bible-today/ (JA and EN). Bible ID 81 no longer exists in the YouVersion Platform catalog and no Shinkaiyaku text is available through that API; this 404 was the cause of the Run 93 Chromium gate failure. Both pages now use only the site Morning Word feed. Japanese Bible.com links updated to Shinkaiyaku 2017 (version 4869).",
-  "verify_path": "/bible-today/",
-  "firebase_project": "at-home-church-okinawa"
-}
+ewogICJzY2hlbWEiOiAxLAogICJkZXBsb3kiOiB0cnVlLAogICJyZXF1ZXN0X2lkIjogImFoYy0yMDI2MTEwNi1jb2xvc3NpYW5zLTEtNi12MSIsCiAgInJlYXNvbiI6ICJQdWJsaXNoIHRoZSBNb3JuaW5nIFdvcmQgZm9yIDIwMjYtMTEtMDY6IENvbG9zc2lhbnMgMTo2LCBKQSB0aXRsZSDnpo/pn7Pjga7jg5Djg4jjg7PjgpLjgaTjgarjgYTjgafotbDjgosgLyBFTiB0aXRsZSBSdW4gV2l0aCB0aGUgQmF0b24gb2YgdGhlIEdvc3BlbC4gRGFpbHkgc291cmNlIEpTT04sIHBhaXJlZCBKQS9FTiBwYWdlcywgYW5kIGNhbm9uaWNhbC9wdWJsaWMgZmVlZCBwYXJpdHkgd2VyZSBwcmVwYXJlZCBhbmQgcmVhZCBiYWNrIGluIERyaXZlIGJlZm9yZSB0aGlzIHJlcXVlc3QuIiwKICAidmVyaWZ5X3BhdGgiOiAiL21lc3NhZ2UvbW9ybmluZy8yMDI2LTExLTA2LWNvbG9zc2lhbnMtMS02LyIsCiAgImZpcmViYXNlX3Byb2plY3QiOiAiYXQtaG9tZS1jaHVyY2gtb2tpbmF3YSIKfQo=
