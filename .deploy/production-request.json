@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261106-colossians-1-6-v2",
-  "reason": "Publish the Morning Word for 2026-11-06: Colossians 1:6, EN title Run With the Baton of the Gospel. Daily source JSON, paired JA/EN pages, and canonical/public feed parity were prepared and read back in Drive before this request. This v2 replaces v1, whose request file was stored base64-encoded by mistake and failed JSON validation in Run #95 before any deploy step.",
-  "verify_path": "/message/morning/2026-11-06-colossians-1-6/",
+  "request_id": "ahc-20261107-romans-13-1-v1",
+  "reason": "Publish the Morning Word for 2026-11-07: Romans 13:1, EN title What We Can Obey, and What We Cannot. Daily source JSON, paired JA/EN pages, and canonical/public feed parity were prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-07-romans-13-1/",
   "firebase_project": "at-home-church-okinawa"
 }
