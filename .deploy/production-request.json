@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261107-bible-today-devotion-v1",
-  "reason": "Strengthen /bible-today/ (JA) and /en/bible-today/ (EN) to serve devotion searches: add a static 'What is a devotion' section, an FAQ, and a Morning Word archive block rendered from the site feed. Wording was approved by the owner (warm spoken tone; Pastor Peter Sunagawa of At Home Church Okinawa). Both canonical pages in Drive PRODUCTION were updated as append-only edits (BOM/CRLF preserved) and read back byte-identical before this request.",
+  "request_id": "ahc-20261107-bible-today-devotion-v2",
+  "reason": "Fix the Morning Word archive block added in v1: older feed entries carry full ISO datetimes (e.g. 2026-11-05T00:00:00+09:00) and rendered as NaN dates. The date formatter on /bible-today/ (JA) and /en/bible-today/ (EN) now parses the leading YYYY-MM-DD of both formats. Both canonical pages in Drive PRODUCTION were updated and read back byte-identical before this request.",
   "verify_path": "/bible-today/",
   "firebase_project": "at-home-church-okinawa"
 }
