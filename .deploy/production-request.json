@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261107-bible-today-devotion-v2",
-  "reason": "Fix the Morning Word archive block added in v1: older feed entries carry full ISO datetimes (e.g. 2026-11-05T00:00:00+09:00) and rendered as NaN dates. The date formatter on /bible-today/ (JA) and /en/bible-today/ (EN) now parses the leading YYYY-MM-DD of both formats. Both canonical pages in Drive PRODUCTION were updated and read back byte-identical before this request.",
-  "verify_path": "/bible-today/",
+  "request_id": "ahc-20261108-2-timothy-3-12-v1",
+  "reason": "Publish the Morning Word for 2026-11-08: 2 Timothy 3:12, EN title Blessing Beyond Persecution. Daily source JSON, paired JA/EN pages, and canonical/public feed parity were prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-08-2-timothy-3-12/",
   "firebase_project": "at-home-church-okinawa"
 }
