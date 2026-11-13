@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261113-worship-2026-11-08-v1",
-  "reason": "Publish the 2026-11-08 worship message by Pastor Timothy Yamashiro (Ryukyu Mission), JA title: Fight the Good Fight We Must Fight (1 Timothy 6). Canonical source JSON set to published, paired JA full-transcript page (16 sections with video timestamps) and EN thematic reading guide placed, and canonical/public feed parity (518 entries, identical) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/worship/2026-11-08-fight-the-good-fight/",
+  "request_id": "ahc-20261114-matthew-25-32-33-v1",
+  "reason": "Publish the 2026-11-14 Morning Word on Matthew 25:32-33 (JA title: Separated to the Right and to the Left). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (519 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-14-matthew-25-32-33/",
   "firebase_project": "at-home-church-okinawa"
 }
