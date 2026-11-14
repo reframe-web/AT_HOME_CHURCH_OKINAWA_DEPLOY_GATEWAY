@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261114-matthew-25-32-33-v1",
-  "reason": "Publish the 2026-11-14 Morning Word on Matthew 25:32-33 (JA title: Separated to the Right and to the Left). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (519 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-14-matthew-25-32-33/",
+  "request_id": "ahc-20261115-acts-5-20-v1",
+  "reason": "Publish the 2026-11-15 Morning Word on Acts 5:20 (JA title: Tell All the Words of Life). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (520 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-15-acts-5-20/",
   "firebase_project": "at-home-church-okinawa"
 }
