@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261115-acts-5-20-v1",
-  "reason": "Publish the 2026-11-15 Morning Word on Acts 5:20 (JA title: Tell All the Words of Life). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (520 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-15-acts-5-20/",
+  "request_id": "ahc-20261116-proverbs-6-6-8-v1",
+  "reason": "Publish the 2026-11-16 Morning Word on Proverbs 6:6-8 (JA title: Learn from the Ant and Prepare). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (521 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-16-proverbs-6-6-8/",
   "firebase_project": "at-home-church-okinawa"
 }
