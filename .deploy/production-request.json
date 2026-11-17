@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261118-job-13-16-v1",
-  "reason": "Publish the 2026-11-18 Morning Word on Job 13:16 (JA title: Prepare to Stand Before God). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (523 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "request_id": "ahc-20261118-job-13-16-v2",
+  "reason": "Correct the closing Shalom emoji on the 2026-11-18 Morning Word (Job 13:16) to match the supplied manuscript, and republish. Daily JSON and paired JA/EN pages updated in Drive and read back; feed parity unchanged (523 entries).",
   "verify_path": "/message/morning/2026-11-18-job-13-16/",
   "firebase_project": "at-home-church-okinawa"
 }
