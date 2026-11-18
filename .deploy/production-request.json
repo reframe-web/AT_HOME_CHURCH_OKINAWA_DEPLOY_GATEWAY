@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261118-job-13-16-v2",
-  "reason": "Correct the closing Shalom emoji on the 2026-11-18 Morning Word (Job 13:16) to match the supplied manuscript, and republish. Daily JSON and paired JA/EN pages updated in Drive and read back; feed parity unchanged (523 entries).",
-  "verify_path": "/message/morning/2026-11-18-job-13-16/",
+  "request_id": "ahc-20261118-worship-2026-11-15-v1",
+  "reason": "Publish the 2026-11-15 worship message (Pastor Peter Sunagawa, Countdown of the End Times): JA full transcript page and EN guide. Canonical JSON and paired JA/EN pages placed in Drive PRODUCTION and verified (HTML MD5 match, both feeds identical at 524 entries with the new entry published).",
+  "verify_path": "/message/worship/2026-11-15-countdown-of-the-end-times/",
   "firebase_project": "at-home-church-okinawa"
 }
