@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261119-proverbs-19-2-v1",
-  "reason": "Publish the 2026-11-19 Morning Word on Proverbs 19:2 (JA title: A Burning Heart, a Cool Head). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (525 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-19-proverbs-19-2/",
+  "request_id": "ahc-20261120-job-1-21-v1",
+  "reason": "Publish the 2026-11-20 Morning Word on Job 1:21 (JA title: The LORD Gave, and the LORD Has Taken Away). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (526 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-20-job-1-21/",
   "firebase_project": "at-home-church-okinawa"
 }
