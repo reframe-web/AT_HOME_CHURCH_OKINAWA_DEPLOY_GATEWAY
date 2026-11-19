@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261118-worship-2026-11-15-v1",
-  "reason": "Publish the 2026-11-15 worship message (Pastor Peter Sunagawa, Countdown of the End Times): JA full transcript page and EN guide. Canonical JSON and paired JA/EN pages placed in Drive PRODUCTION and verified (HTML MD5 match, both feeds identical at 524 entries with the new entry published).",
-  "verify_path": "/message/worship/2026-11-15-countdown-of-the-end-times/",
+  "request_id": "ahc-20261119-proverbs-19-2-v1",
+  "reason": "Publish the 2026-11-19 Morning Word on Proverbs 19:2 (JA title: A Burning Heart, a Cool Head). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (525 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-19-proverbs-19-2/",
   "firebase_project": "at-home-church-okinawa"
 }
