@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261120-job-1-21-v1",
-  "reason": "Publish the 2026-11-20 Morning Word on Job 1:21 (JA title: The LORD Gave, and the LORD Has Taken Away). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (526 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-20-job-1-21/",
+  "request_id": "ahc-20261121-matthew-25-13-v1",
+  "reason": "Publish the 2026-11-21 Morning Word on Matthew 25:13 (JA title: Is Your Oil Ready?). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (527 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-21-matthew-25-13/",
   "firebase_project": "at-home-church-okinawa"
 }
