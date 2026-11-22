@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261122-hebrews-10-37-v1",
-  "reason": "Publish the 2026-11-22 Morning Word on Hebrews 10:37 (JA title: He Who Is Coming Will Not Delay). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (528 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-22-hebrews-10-37/",
+  "request_id": "ahc-20261123-nahum-1-7-v1",
+  "reason": "Publish the 2026-11-23 Morning Word on Nahum 1:7 (JA title: A Stronghold in the Day of Trouble). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (529 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-23-nahum-1-7/",
   "firebase_project": "at-home-church-okinawa"
 }
