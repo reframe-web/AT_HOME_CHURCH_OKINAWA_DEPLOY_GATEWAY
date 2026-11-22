@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261121-top-css-v1",
-  "reason": "Top page readability fixes per DESIGN_SPEC (2026-11-21, minimal diff): appended CSS blocks to home-latest.css and home-light.css in the Drive canonical (hero z-index/scrim, orbit wheel mask softening scoped to min-width:1001px, orbit-help bottom and size fix scoped to .orbit-help only, tiny label size floors, light-mode heading wrap and small-label size floors). Canonical files were updated in Drive and verified byte-identical to production before the append.",
-  "verify_path": "/",
+  "request_id": "ahc-20261122-hebrews-10-37-v1",
+  "reason": "Publish the 2026-11-22 Morning Word on Hebrews 10:37 (JA title: He Who Is Coming Will Not Delay). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (528 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-22-hebrews-10-37/",
   "firebase_project": "at-home-church-okinawa"
 }
