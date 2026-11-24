@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261124-micah-7-8-v1",
-  "reason": "Publish the 2026-11-24 Morning Word on Micah 7:8 (JA title: Though I Fall, I Will Rise). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (530 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-24-micah-7-8/",
+  "request_id": "ahc-20261125-psalm-119-71-v1",
+  "reason": "Publish the 2026-11-25 Morning Word on Psalm 119:71 (JA title: When Suffering Becomes a Blessing). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (531 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-25-psalm-119-71/",
   "firebase_project": "at-home-church-okinawa"
 }
