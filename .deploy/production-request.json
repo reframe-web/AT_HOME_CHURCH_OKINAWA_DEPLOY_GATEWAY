@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261123-nahum-1-7-v1",
-  "reason": "Publish the 2026-11-23 Morning Word on Nahum 1:7 (JA title: A Stronghold in the Day of Trouble). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (529 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-23-nahum-1-7/",
+  "request_id": "ahc-20261124-micah-7-8-v1",
+  "reason": "Publish the 2026-11-24 Morning Word on Micah 7:8 (JA title: Though I Fall, I Will Rise). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (530 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-24-micah-7-8/",
   "firebase_project": "at-home-church-okinawa"
 }
