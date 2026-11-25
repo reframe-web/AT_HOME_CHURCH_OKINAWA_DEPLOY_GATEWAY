@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261125-psalm-119-71-v1",
-  "reason": "Publish the 2026-11-25 Morning Word on Psalm 119:71 (JA title: When Suffering Becomes a Blessing). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (531 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-25-psalm-119-71/",
+  "request_id": "ahc-20261126-acts-2-21-v1",
+  "reason": "Publish the 2026-11-26 Morning Word on Acts 2:21 (JA title: Everyone Who Calls on the Lord Will Be Saved). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (532 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-26-acts-2-21/",
   "firebase_project": "at-home-church-okinawa"
 }
