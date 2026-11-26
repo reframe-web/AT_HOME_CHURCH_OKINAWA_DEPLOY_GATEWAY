@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261126-worship-2026-11-22-v1",
-  "reason": "Publish the 2026-11-22 worship message (Pastor Peter Sunagawa, Battle of Light and Darkness): JA full transcript page and EN guide. Canonical JSON and paired JA/EN pages placed in Drive PRODUCTION and verified (HTML MD5 match, both feeds identical at 533 entries with the new entry published).",
-  "verify_path": "/message/worship/2026-11-22-battle-of-light-and-darkness/",
+  "request_id": "ahc-20261127-luke-12-49-v1",
+  "reason": "Publish the 2026-11-27 Morning Word on Luke 12:49 (JA title: Fire on the Earth). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (534 entries, identical, new entry first) was prepared and read back in Drive before this request.",
+  "verify_path": "/message/morning/2026-11-27-luke-12-49/",
   "firebase_project": "at-home-church-okinawa"
 }
