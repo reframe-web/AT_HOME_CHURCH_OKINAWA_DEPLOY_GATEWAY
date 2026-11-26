@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261126-acts-2-21-v1",
-  "reason": "Publish the 2026-11-26 Morning Word on Acts 2:21 (JA title: Everyone Who Calls on the Lord Will Be Saved). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (532 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-26-acts-2-21/",
+  "request_id": "ahc-20261126-worship-2026-11-22-v1",
+  "reason": "Publish the 2026-11-22 worship message (Pastor Peter Sunagawa, Battle of Light and Darkness): JA full transcript page and EN guide. Canonical JSON and paired JA/EN pages placed in Drive PRODUCTION and verified (HTML MD5 match, both feeds identical at 533 entries with the new entry published).",
+  "verify_path": "/message/worship/2026-11-22-battle-of-light-and-darkness/",
   "firebase_project": "at-home-church-okinawa"
 }
