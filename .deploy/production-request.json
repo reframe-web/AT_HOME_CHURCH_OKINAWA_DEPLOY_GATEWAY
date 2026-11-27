@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261127-luke-12-49-v1",
-  "reason": "Publish the 2026-11-27 Morning Word on Luke 12:49 (JA title: Fire on the Earth). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (534 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-27-luke-12-49/",
+  "request_id": "ahc-20261127-video-baptism-v1",
+  "reason": "Publish the joint baptism video page (2026-11-15 joint baptism, 8 people baptized): JA/EN video pages under /message/video/ plus feed entry. HTML placed in Drive PRODUCTION and MD5-verified; both feeds identical at 535 entries with the new entry published.",
+  "verify_path": "/message/video/2026-11-15-joint-baptism-okinawa/",
   "firebase_project": "at-home-church-okinawa"
 }
