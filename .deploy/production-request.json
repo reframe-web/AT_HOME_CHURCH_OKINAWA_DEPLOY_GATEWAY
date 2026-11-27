@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261127-video-baptism-v3",
-  "reason": "Publish the joint baptism video page (2026-11-15 joint baptism, 8 people baptized): JA/EN video pages under /message/video/ plus feed entry. Root cause of v1/v2 failures fixed: update-sitemap-lastmod.ps1 route whitelist (morning|worship|blog|praise) rejected the new video route and threw before deploy; 'video' added to all three route patterns in Drive PRODUCTION (readback MD5-verified). Drive content state otherwise unchanged: HTML MD5-verified in place, both feeds identical at 535 entries with the new entry published.",
+  "request_id": "ahc-20261127-video-baptism-v4",
+  "reason": "Correct JA/EN placement of the baptism video page. v3 deployed successfully (sitemap video-route fix worked) but the JA and EN slug folders had been created under each other's message tree because two Drive folder IDs were mislabeled in the publish helper (public/message = 1YuCj1ir7ysVZcNagevsX8hoMPw0azJ1g, public/en/message = 1Y3MglDmL2hfR4-z3lNl3awqdkQgx7LoE; proven by the JA worship folder's parent). Slug folders moved to the correct trees in Drive and publish_one.py constants fixed. Feeds unchanged (535 entries, baptism entry published).",
   "verify_path": "/message/video/2026-11-15-joint-baptism-okinawa/",
   "firebase_project": "at-home-church-okinawa"
 }
