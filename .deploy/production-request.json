@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "deploy": true,
-  "request_id": "ahc-20261128-2-timothy-2-11-13-v1",
-  "reason": "Publish the 2026-11-28 Morning Word on 2 Timothy 2:11-13 (JA title: He Remains Faithful). Canonical daily JSON set to published, paired JA/EN detail pages placed, and canonical/public feed parity (536 entries, identical, new entry first) was prepared and read back in Drive before this request.",
-  "verify_path": "/message/morning/2026-11-28-2-timothy-2-11-13/",
+  "request_id": "ahc-20261128-video-okinawa-intro-v1",
+  "reason": "Publish the At Home Church Okinawa introduction video page (JA/EN) under /message/video/ plus feed entry. HTML placed in Drive PRODUCTION and MD5-verified; both feeds identical with the new entry published.",
+  "verify_path": "/message/video/2026-11-28-at-home-church-okinawa-introduction/",
   "firebase_project": "at-home-church-okinawa"
 }
